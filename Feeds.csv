@@ -5,9 +5,9 @@
 ## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,
 ## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,
 ## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.custom1
-product1,productname1,productCategory1,The best product,www.straumann.com,1,www.straumann.com,1,P1
-product2,productname2,productCategory2,The best product,www.straumann.com,2,www.straumann.com,1,P2
-product3,productname3,productCategory3,The best product,www.straumann.com,3,www.straumann.com,1,P1
+creditcard,productname1,productCategory1,The best product,www.hdfc.com,1,www.hdfc.com,1,P1
+debitcard,productname2,productCategory2,The best product,www.hdfc.com,2,www.hdfc.com,1,P2
+loans,productname3,productCategory3,The best product,www.hdfc.com,3,www.hdfc.com,1,P1
 product4,productname4,productCategory4,The best product,www.straumann.com,4,www.straumann.com,1,P2
 product5,productname5,productCategory5,The best product,www.straumann.com,5,www.straumann.com,1,P1
 product6,productname6,productCategory6,The best product,www.straumann.com,6,www.straumann.com,1,P2
