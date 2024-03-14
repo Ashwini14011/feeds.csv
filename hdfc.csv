@@ -7,8 +7,8 @@
 ## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.custom1
 creditcard,productname1,productCategory1,The best product,https://v.hdfcbank.com/content/dam/hdfc-aem-microsites/new-credit-card-amp/cards/indianoil-cc.png,1,www.hdfc.com,1,P1
 debitcard,productname2,productCategory2,The best product,https://www.hdfcbank.com/content/api/contentstream-id/723fb80a-2dde-42a3-9793-7ae1be57c87f/5a3b3bac-1f53-42aa-a9bf-6498cbcc3d4c/Personal/Pay/Cards/Debit%20Card/Debit%20Card%20Landing%20Page/Debit%20Cards/MoneyBack%20Debit%20Card/MoneyBack_264-x-1674.png,2,www.hdfc.com,1,P2
-loans,productname3,productCategory3,The best product,www.hdfc.com,3,www.hdfc.com,1,P1
-product4,productname4,productCategory4,The best product,www.straumann.com,4,www.straumann.com,1,P2
+personalloans,productname3,productCategory3,The best product,https://5.imimg.com/data5/SELLER/Default/2021/7/VR/UP/OI/133569131/new-product-500x500.jpeg,3,www.hdfc.com,1,P1
+homeloans,productname4,productCategory4,The best product,https://www.aavas.in/uploads/images/blog/easy-way-to-get-home-loan-961057147.jpg,4,www.straumann.com,1,P2
 product5,productname5,productCategory5,The best product,www.straumann.com,5,www.straumann.com,1,P1
 product6,productname6,productCategory6,The best product,www.straumann.com,6,www.straumann.com,1,P2
 product7,productname7,productCategory7,The best product,www.straumann.com,7,www.straumann.com,1,P1
